@@ -1,0 +1,5 @@
+<http://www.ex.com/data/IrishMale>
+        a       <http://xmlns.com/foaf/0.1/Record> .
+
+<http://www.ex.com/data/IrishFemale>
+        a       <http://xmlns.com/foaf/0.1/Record> .

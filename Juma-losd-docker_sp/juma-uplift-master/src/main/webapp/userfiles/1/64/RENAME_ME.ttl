@@ -1,0 +1,719 @@
+<http://ex.com/Faroe_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Panama>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Nepal>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Turks_and_Caicos_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/United_States>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Isle_of_Man>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Paraguay>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Japan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/South_Georgia_and_the_South_Sandwich_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Falkland_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Togo>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Sint_Maarten>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Mauritania>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Greenland>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Australia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Gabon>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Laos>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Djibouti>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Taiwan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Northern_Mariana_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Algeria>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/San_Marino>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Ireland>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Puerto_Rico>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/India>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Guatemala>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/El_Salvador>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Saudi_Arabia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Brunei>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Albania>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Serbia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Guadeloupe>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Netherlands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Uganda>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Pitcairn>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Honduras>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Ivory_Coast>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Mexico>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Philippines>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Republic_of_the_Congo>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Latvia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Cocos_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Syria>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Saint_Martin>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Lesotho>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Macao>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Nigeria>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Guyana>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Uruguay>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Ecuador>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/American_Samoa>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Saint_Barthelemy>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Russia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Singapore>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Kenya>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Canada>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Saint_Vincent_and_the_Grenadines>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/U.S._Virgin_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Brazil>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Yemen>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Uzbekistan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/New_Zealand>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Dominica>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Svalbard_and_Jan_Mayen>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Tajikistan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Germany>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Chile>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Liechtenstein>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Reunion>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Benin>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Cuba>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Iran>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Portugal>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Guinea>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Hungary>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bulgaria>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Zambia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bosnia_and_Herzegovina>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Equatorial_Guinea>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Wallis_and_Futuna>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Sao_Tome_and_Principe>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Slovenia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Kiribati>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Norway>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Macedonia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Jersey>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Samoa>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Swaziland>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Tuvalu>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Sweden>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Chad>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Seychelles>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Cameroon>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Ethiopia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Hong_Kong>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Trinidad_and_Tobago>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Myanmar>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Switzerland>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Maldives>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Malta>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/China>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Vatican>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Kyrgyzstan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Botswana>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Cayman_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bolivia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Madagascar>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Croatia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Saint_Lucia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Antigua_and_Barbuda>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Christmas_Island>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Thailand>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Pakistan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Austria>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Gibraltar>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Marshall_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Argentina>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Zimbabwe>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Dominican_Republic>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Peru>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/French_Polynesia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Spain>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Czech_Republic>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Aland_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Iraq>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Andorra>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Colombia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Guernsey>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Senegal>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Eritrea>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bahrain>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Belgium>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Lebanon>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Iceland>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Poland>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Jamaica>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/East_Timor>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Saint_Pierre_and_Miquelon>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Fiji>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Georgia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/France>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Haiti>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Mali>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Vietnam>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Western_Sahara>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Niue>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/North_Korea>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Armenia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Oman>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Guinea-Bissau>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Monaco>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/United_Kingdom>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Sierra_Leone>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Anguilla>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Malaysia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Moldova>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Montserrat>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Democratic_Republic_of_the_Congo>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/French_Southern_Territories>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Micronesia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/South_Sudan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Montenegro>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Mauritius>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Aruba>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bahamas>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Tonga>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Palau>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Slovakia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Saint_Helena>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Estonia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Vanuatu>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Somalia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Sri_Lanka>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Kuwait>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Gambia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Martinique>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Suriname>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Guam>  a  <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/French_Guiana>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/New_Caledonia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Turkmenistan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Afghanistan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Rwanda>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Nauru>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Jordan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Costa_Rica>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Indonesia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bonaire,_Saint_Eustatius_and_Saba_>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Libya>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Grenada>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Barbados>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Mayotte>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Mongolia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Egypt>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Sudan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Israel>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/United_Arab_Emirates>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/British_Virgin_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Finland>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bermuda>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Comoros>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Kazakhstan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Solomon_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Qatar>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Mozambique>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Turkey>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Nicaragua>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Burkina_Faso>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Denmark>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bhutan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Namibia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Cyprus>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Liberia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Bangladesh>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Malawi>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Azerbaijan>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Ukraine>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Curacao>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Ghana>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/South_Africa>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Tunisia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Venezuela>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Cook_Islands>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Cambodia>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Morocco>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Papua_New_Guinea>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Kosovo>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Romania>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Greece>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Norfolk_Island>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Saint_Kitts_and_Nevis>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Palestinian_Territory>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Italy>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Angola>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/South_Korea>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Niger>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Luxembourg>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Belize>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Lithuania>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Central_African_Republic>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Burundi>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Tanzania>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Cape_Verde>
+        a       <http://xmlns.com/foaf/0.1/name> .
+
+<http://ex.com/Belarus>
+        a       <http://xmlns.com/foaf/0.1/name> .

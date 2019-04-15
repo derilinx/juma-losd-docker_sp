@@ -1,0 +1,23 @@
+<html t:type="layoutlogin" title="portal Index"
+      t:sidebarTitle="Framework Version"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+	<div class="jumbotron" style="background-color:#c3d9ef">
+		<img src="images/losd-logo.png" alt="LOSD-logo" style="float:left; height:100px; width:150px" />
+		<h1>&nbsp; Juma Editor</h1>
+		<p/>
+		<p style="font-size:15px; color:red">Note that Juma login credentials are not the same as those for the Linked Open Statistical Data Hub. You have to specifically request Juma login credentials from the Derilinx-ADAPT-Insight consortium.</p>
+		<t:security.LoginForm />
+	</div>
+	<script>
+		$("#tynamoLogin").attr('class', 'form-control');
+		$("#tynamoPassword").attr('class', 'form-control');
+	</script>
+	
+	<footer>
+		<img src="images/derilink_img.png" alt="Derilinx logo" style="float:centre; height:50px; width:50x"/>
+		<img src="images/adapt_img.png" alt="ADAPT logo" style="float:centre; padding-left:50px; height:50px; width:50x"/>
+		<img src="images/insight_img.png" alt="Insight logo" style="float:centre; padding-left:50px; height:50px; width:50x"/>
+	</footer>
+	
+</html>

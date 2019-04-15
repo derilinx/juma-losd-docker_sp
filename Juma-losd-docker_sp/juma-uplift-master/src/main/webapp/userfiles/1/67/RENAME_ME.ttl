@@ -1,0 +1,14 @@
+<http://ex.com/test/Both_sexes>
+        a       <http://xmlns.com/foaf/0.1/Class1> ;
+        <http://xmlns.com/foaf/0.1/property>
+                "Both sexes" .
+
+<http://ex.com/test/Female>
+        a       <http://xmlns.com/foaf/0.1/Class1> ;
+        <http://xmlns.com/foaf/0.1/property>
+                "Female" .
+
+<http://ex.com/test/Male>
+        a       <http://xmlns.com/foaf/0.1/Class1> ;
+        <http://xmlns.com/foaf/0.1/property>
+                "Male" .

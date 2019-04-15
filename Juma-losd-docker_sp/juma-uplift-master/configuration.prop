@@ -1,0 +1,4 @@
+mappingFile=mapping.ttl
+connectionURL=jdbc:mysql://localhost:3306/r2rmleditor
+user=root
+password=password

@@ -1,0 +1,39 @@
+<html 
+	t:type="layout" 
+	title="portal Index"
+    t:sidebarTitle="Framework Version"
+    xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+    xmlns:p="tapestry:parameter">
+    
+	<h1 style="color:#074A8B">Mappings</h1>
+    
+    <table class="table">
+    	<tr>
+    		<th>ID</th>
+    		<th>Title</th>
+				<th>Description</th>
+    		<!-- <th>Creator</th> -->
+    		<th>Created on</th>
+				<th>Last Saved</th>
+				<th style="text-align:center">Duplicate Mapping</th>
+    		<th style="text-align:center">Delete Mapping</th>
+    	</tr>
+    	<t:loop source="mappings" value="mapping">
+    		<tr>
+	    		<td>${mapping.id}</td>
+	    		<td><t:pagelink page="EditMapping" context="mapping.id" >${mapping.title}</t:pagelink></td>
+	    		<!-- <td>${mapping.creator}</td> -->
+					<td><textarea style="resize:none; background-color:white; border:none" rows="2" cols="50" disabled="true">${mapping.description}</textarea></td>
+	    		<td>${mapping.created}</td>
+					<td>${mapping.lastSave}</td>
+					<td style="text-align:center"><t:actionlink t:id="duplicateMap" t:context="mapping"><span class="glyphicon glyphicon-ok" aria-hidden="true"  ></span></t:actionlink></td>
+	    		<td style="text-align:center"><t:actionlink t:id="deleteMap" t:context="mapping"  t:mixins="jquery/Confirm"><span class="glyphicon glyphicon-remove" aria-hidden="true"  ></span></t:actionlink></td>
+	    	</tr>
+    	</t:loop>
+    </table>
+    
+    <h1 style="color:#074A8B">Create Mapping</h1>
+    
+   	<t:beaneditform object="newMapping" include="title,description" submitlabel="Create Mapping" />
+	
+</html>
