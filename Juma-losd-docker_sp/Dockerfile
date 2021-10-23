@@ -5,7 +5,7 @@ RUN echo "mysql-server mysql-server/root_password password $MYSQL_PWD" | debconf
 RUN echo "mysql-server mysql-server/root_password_again password $MYSQL_PWD" | debconf-set-selections
 
 RUN apt-get update -y \ 
- && apt-get install -y screen openjdk-8-jdk mysql-server-5.7 maven vim apache2 php libapache2-mod-php
+ && apt-get install -y screen openjdk-8-jdk mysql-server-5.7 maven vim apache2 php libapache2-mod-php curl libcurl3 libcurl3-dev php7.0-curl
  
 COPY start.sh /juma/start.sh
 COPY juma-uplift-master /juma/juma-uplift-master

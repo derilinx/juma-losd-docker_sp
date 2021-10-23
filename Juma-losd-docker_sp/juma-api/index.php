@@ -46,17 +46,30 @@
 	if ( !file_exists("temp/".$user_id."/".$map_id."") ){
 		mkdir("./temp/".$user_id."/".$map_id."", 0777, true);
 	}
-	
-	//Getting the csv file from the web
-	$options = array( 
-		'http' => array (
-		'method' => 'GET'	,
-	  'header' => "Accept: text/csv; charset=utf-8"
-	  )
-	);
-	$context = stream_context_create($options);
-	
-	$csv_from_web = file_get_contents($source_data, false, $context);
+
+	$headers = [
+                'Accept: text/csv; charset=utf-8',
+                'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:28.0) Gecko/20100101 Firefox/28.0',
+        ];
+        $options = array(
+                CURLOPT_RETURNTRANSFER => true,   // return web page
+                CURLOPT_HEADER         => false,  // don't return headers
+                CURLOPT_FOLLOWLOCATION => true,   // follow redirects
+                CURLOPT_MAXREDIRS      => 2,     // stop after 2 redirects
+                CURLOPT_ENCODING       => "",     // handle compressed
+                CURLOPT_USERAGENT      => "test", // name of client
+                CURLOPT_AUTOREFERER    => true,   // set referrer on redirect
+                CURLOPT_CONNECTTIMEOUT => 120,    // time-out on connect
+                CURLOPT_TIMEOUT        => 120,    // time-out on response
+                CURLOPT_HTTPHEADER     => $headers,
+                CURLOPT_SSL_VERIFYHOST => 0,
+                CURLOPT_SSL_VERIFYPEER => 0
+        );
+	$curl = curl_init($source_data);
+        curl_setopt_array($curl, $options);
+        $csv_from_web  = curl_exec($curl);
+        $errors  = curl_error($curl);
+        curl_close ($curl);
 	
 	$csv_file = fopen("temp/".$user_id."/".$map_id."/sourcedata.csv", "w") or exit("Error: Unable to access this URL, try URL encoding it!");
 	fwrite($csv_file, $csv_from_web);
@@ -91,7 +104,7 @@
 
 	//Cleaning up temp files
 	unlink("temp/".$user_id."/".$map_id."/sourcedata.csv");
-  unlink("temp/".$user_id."/".$map_id."/config.properties");
+  	unlink("temp/".$user_id."/".$map_id."/config.properties");
 	unlink("temp/".$user_id."/".$map_id."/output.ttl");
 	rmdir("temp/".$user_id."/".$map_id."");
 	rmdir("temp/".$user_id."");
